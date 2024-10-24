@@ -6,3 +6,5 @@ elif Greeting[0]=="h":
     print("$20")
 else:
     print("$100")
+
+print("just aded")
